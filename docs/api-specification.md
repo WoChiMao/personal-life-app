@@ -35,6 +35,7 @@ Application / Service Layer
        │
        ▼
 PostgreSQL
+```
 
 ---
 
